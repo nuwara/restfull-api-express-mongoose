@@ -1,17 +1,16 @@
 {
-  "name": "restfull-ap-expess-mongoose",
+  "name": "nodejs-restful-api-express-mongoose",
   "version": "1.0.0",
-  "description": "",
+  "description": "Restful API Express Mongoose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Idris",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "ejs": "^3.1.8",
     "express": "^4.18.2",
     "mongoose": "^6.8.1"
   }
